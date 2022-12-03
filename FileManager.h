@@ -15,7 +15,4 @@ class FileManager {
         void readFile(std::string fileName);
         std::string upper(std::string str);
         std::string lower(std::string str);
-        // uint32_t getOperand1();
-        // uint32_t getOperand2();
-        // std::string getOPCODE();
 };
